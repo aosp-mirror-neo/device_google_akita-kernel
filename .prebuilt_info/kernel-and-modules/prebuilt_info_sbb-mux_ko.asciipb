@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "9182397"
+    target: "akita"
+    source_file: "sbb-mux.ko"
+  }
+  dest_file: "sbb-mux.ko"
+  version: "Linux version 5.15.41-android13-8-755973-g9dd496d86797-ab9182397 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Oct 11 23:03:28 UTC 2022"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}
