@@ -33,6 +33,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/sched_tp.
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gs-chipid.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cal-if/cmupmucal.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-pmu-if.ko
