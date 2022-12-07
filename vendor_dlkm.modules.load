@@ -35,8 +35,6 @@ extra/private/google-modules/bms/overheat_mitigation.ko
 extra/private/google-modules/bms/max77729_uic.ko
 extra/private/google-modules/bms/max77729_charger.ko
 extra/private/google-modules/display/samsung/panel/panel-boe-nt37290.ko
-extra/private/devices/google/akita/display/panel-google-bigsurf.ko
-extra/private/devices/google/akita/display/panel-google-shoreline.ko
 extra/private/google-modules/gxp/zuma/gxp.ko
 extra/private/google-modules/lwis/lwis.ko
 extra/private/google-modules/nfc/ese/st33spi.ko
