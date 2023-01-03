@@ -119,6 +119,7 @@ extra/private/google-modules/soc/gs/drivers/cpufreq/exynos-acme.ko
 extra/private/google-modules/soc/gs/drivers/clocksource/exynos_mct_v3.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/exynos_devfreq.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/arm-memlat-mon.ko
+extra/private/google-modules/soc/gs/drivers/devfreq/google/governor_memlat.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/memlat-devfreq.ko
 extra/private/google-modules/soc/gs/drivers/iio/power/odpm.ko
 extra/private/google-modules/soc/gs/drivers/bts/bts.ko
@@ -126,7 +127,6 @@ extra/private/google-modules/soc/gs/drivers/block/zram/zram_gs.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_cpu.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_eh.ko
 extra/private/google-modules/aoc/aoc_core.ko
-extra/private/google-modules/aoc/aoc_tbn_service_dev.ko
 extra/private/google-modules/aoc/usb/aoc_usb_driver.ko
 extra/private/google-modules/bms/google-bms.ko
 extra/private/google-modules/bms/google-battery.ko
