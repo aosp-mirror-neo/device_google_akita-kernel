@@ -9,7 +9,7 @@ kernel/net/rfkill/rfkill.ko
 kernel/lib/crypto/libarc4.ko
 extra/private/google-modules/bms/misc/gvotable.ko
 extra/private/google-modules/bms/misc/logbuffer.ko
-extra/private/google-modules/soc/gs/drivers/phy/samsung/phy-exynos-usbdrd-super.ko
+extra/private/google-modules/soc/gs/drivers/phy/samsung/phy-exynos-usbdrd-eusb-super.ko
 extra/private/google-modules/soc/gs/drivers/phy/samsung/eusb_repeater.ko
 extra/private/google-modules/soc/gs/drivers/phy/samsung/phy-exynos-mipi-dsim.ko
 extra/private/google-modules/soc/gs/drivers/phy/samsung/phy-exynos-mipi.ko
@@ -127,6 +127,7 @@ extra/private/google-modules/soc/gs/drivers/block/zram/zram_gs.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_cpu.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_eh.ko
 extra/private/google-modules/aoc/aoc_core.ko
+extra/private/google-modules/aoc/aoc_tbn_service_dev.ko
 extra/private/google-modules/aoc/usb/aoc_usb_driver.ko
 extra/private/google-modules/bms/google-bms.ko
 extra/private/google-modules/bms/google-battery.ko
