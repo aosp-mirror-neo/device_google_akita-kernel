@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9499983"
+    build_id: "9500343"
     target: "akita"
     source_file: "s2mpg15_spmic_thermal.ko"
   }
   dest_file: "s2mpg15_spmic_thermal.ko"
-  version: "Linux version 5.15.85-android14-5-763867-gf648ed9c2ea1-ab9499983 (build-user@build-host) (Android (9394278, based on r475365b) clang version 16.0.2 (https://android.googlesource.com/toolchain/llvm-project e1a2893d16330144736de1f4f0d06a844a03b9b0), LLD 16.0.2) #1 SMP PREEMPT Tue Jan 17 11:10:55 UTC 2023"
+  version: "Linux version 5.15.85-android14-5-763867-gf648ed9c2ea1-ab9500343 (build-user@build-host) (Android (9394278, based on r475365b) clang version 16.0.2 (https://android.googlesource.com/toolchain/llvm-project e1a2893d16330144736de1f4f0d06a844a03b9b0), LLD 16.0.2) #1 SMP PREEMPT Tue Jan 17 11:10:55 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
