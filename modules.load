@@ -3,6 +3,7 @@ kernel/drivers/misc/eeprom/at24.ko
 kernel/drivers/misc/open-dice.ko
 kernel/drivers/spi/spidev.ko
 kernel/drivers/i2c/i2c-dev.ko
+kernel/drivers/perf/arm-cmn.ko
 kernel/net/wireless/cfg80211.ko
 kernel/net/mac80211/mac80211.ko
 kernel/net/rfkill/rfkill.ko
@@ -25,6 +26,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/ehld.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-debug-test.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-debug-test.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/itmon.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/debug/bookerci.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-coresight.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-ecc-handler.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-adv-tracer.ko
@@ -44,9 +46,11 @@ extra/private/google-modules/soc/gs/drivers/soc/google/exynos-cpuhp.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-pd.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-pd-dbg.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-pd_el3.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/exynos-pm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-cpupm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/ect_parser.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/acpm/gs_acpm.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/acpm/acpm_flexpmu_dbg.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/acpm/power_stats.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-dm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos_pm_qos.ko
@@ -60,6 +64,8 @@ extra/private/google-modules/soc/gs/drivers/soc/google/exynos-bcm_dbg-dump.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cpif/shm_ipc.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cpif/cpif_page.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cpif/cpif.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/gnssif_spi/gnss_spi.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/gnssif_spi/gnssif.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/eh/eh.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-debug.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-watchdog.ko
