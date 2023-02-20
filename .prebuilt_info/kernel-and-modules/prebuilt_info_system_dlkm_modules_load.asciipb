@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9589716"
+    build_id: "9621316"
     target: "akita"
     source_file: "system_dlkm.modules.load"
   }
   dest_file: "system_dlkm.modules.load"
-  version: "Linux version 5.15.90-android14-5-765220-g12f3b877d3b0-ab9589716 (build-user@build-host) (Android (9394278, based on r475365b) clang version 16.0.2 (https://android.googlesource.com/toolchain/llvm-project e1a2893d16330144736de1f4f0d06a844a03b9b0), LLD 16.0.2) #1 SMP PREEMPT Fri Feb 10 03:26:25 UTC 2023"
+  version: "Linux version 5.15.92-android14-5-765474-g5f8079cd9d59-ab9621316 (build-user@build-host) (Android (9394278, based on r475365b) clang version 16.0.2 (https://android.googlesource.com/toolchain/llvm-project e1a2893d16330144736de1f4f0d06a844a03b9b0), LLD 16.0.2) #1 SMP PREEMPT Mon Feb 13 10:20:34 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
