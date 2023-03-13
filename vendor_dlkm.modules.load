@@ -78,6 +78,7 @@ extra/private/google-modules/bms/google_dock.ko
 extra/private/google-modules/bms/overheat_mitigation.ko
 extra/private/google-modules/bms/max77729_uic.ko
 extra/private/google-modules/bms/max77729_charger.ko
+extra/private/google-modules/bms/max77779-sp.ko
 extra/private/google-modules/display/samsung/panel/panel-boe-nt37290.ko
 extra/private/google-modules/gxp/zuma/gxp.ko
 extra/private/google-modules/lwis/lwis.ko
