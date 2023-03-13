@@ -39,6 +39,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/metrics/pixel_metrics.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gs-chipid.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cal-if/cmupmucal.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-pmu-if.ko
@@ -164,8 +165,8 @@ extra/private/google-modules/display/samsung/exynos-drm.ko
 extra/private/devices/google/akita/display/panel-google-ak3a.ko
 extra/private/devices/google/akita/display/panel-google-ak3b.ko
 extra/private/google-modules/edgetpu/rio/drivers/edgetpu/rio.ko
-extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
+extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/nfc/st21nfc.ko
 extra/private/google-modules/nfc/ese/st54spi.ko
 extra/private/google-modules/touch/common/touch_bus_negotiator.ko
