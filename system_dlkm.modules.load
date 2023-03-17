@@ -1,5 +1,4 @@
 kernel/mm/zsmalloc.ko
-kernel/drivers/block/zram/zram.ko
 kernel/drivers/net/can/dev/can-dev.ko
 kernel/drivers/net/can/vcan.ko
 kernel/drivers/net/can/slcan.ko
