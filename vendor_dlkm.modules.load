@@ -57,14 +57,6 @@ extra/private/google-modules/soc/gs/drivers/thermal/google/s2mpg15_spmic_thermal
 extra/private/google-modules/soc/gs/drivers/devfreq/google/governor_dsulat.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/dsulat-devfreq.ko
 extra/private/google-modules/amplifiers/audiometrics/audiometrics.ko
-extra/private/google-modules/aoc/mailbox-wc.ko
-extra/private/google-modules/aoc/aoc_char_dev.ko
-extra/private/google-modules/aoc/aoc_control_dev.ko
-extra/private/google-modules/aoc/aoc_channel_dev.ko
-extra/private/google-modules/aoc/aoc_uwb_platform_drv.ko
-extra/private/google-modules/aoc/aoc_uwb_service_dev.ko
-extra/private/google-modules/aoc/alsa/aoc_alsa_dev.ko
-extra/private/google-modules/aoc/alsa/aoc_alsa_dev_util.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41-spi.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41-i2c.ko
@@ -73,6 +65,13 @@ extra/private/google-modules/amplifiers/cs40l26/input-cs40l26-i2c.ko
 extra/private/google-modules/amplifiers/cs40l26/cl_dsp.ko
 extra/private/google-modules/amplifiers/cs40l26/snd-soc-cs40l26.ko
 extra/private/google-modules/amplifiers/tas256x/snd-soc-tas256x.ko
+extra/private/google-modules/aoc/mailbox-wc.ko
+extra/private/google-modules/aoc/aoc_char_dev.ko
+extra/private/google-modules/aoc/aoc_control_dev.ko
+extra/private/google-modules/aoc/aoc_channel_dev.ko
+extra/private/google-modules/aoc/aoc_uwb_platform_drv.ko
+extra/private/google-modules/aoc/aoc_uwb_service_dev.ko
+extra/private/google-modules/aoc/alsa/aoc_alsa_dev.ko
 extra/private/google-modules/bms/google_dual_batt_gauge.ko
 extra/private/google-modules/bms/google_dock.ko
 extra/private/google-modules/bms/overheat_mitigation.ko
@@ -88,5 +87,5 @@ extra/private/google-modules/touch/common/goog_touch_interface.ko
 extra/private/google-modules/touch/fts/ftm5/ftm5.ko
 extra/private/google-modules/touch/goodix/goodix_brl_touch.ko
 extra/private/google-modules/touch/sec/sec_touch.ko
-extra/private/google-modules/wlan/bcm4383/bcmdhd4383.ko
 extra/private/google-modules/uwb/qm35.ko
+extra/private/google-modules/wlan/bcm4383/bcmdhd4383.ko
