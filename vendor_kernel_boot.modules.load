@@ -1,13 +1,10 @@
 kernel/mm/zsmalloc.ko
 kernel/drivers/misc/eeprom/at24.ko
 kernel/drivers/misc/open-dice.ko
+kernel/drivers/scsi/sg.ko
 kernel/drivers/spi/spidev.ko
 kernel/drivers/i2c/i2c-dev.ko
 kernel/drivers/perf/arm-cmn.ko
-kernel/net/wireless/cfg80211.ko
-kernel/net/mac80211/mac80211.ko
-kernel/net/rfkill/rfkill.ko
-kernel/lib/crypto/libarc4.ko
 extra/private/google-modules/soc/gs/drivers/phy/samsung/phy-exynos-usbdrd-eusb-super.ko
 extra/private/google-modules/soc/gs/drivers/phy/samsung/eusb_repeater.ko
 extra/private/google-modules/soc/gs/drivers/phy/samsung/phy-exynos-mipi-dsim.ko
@@ -139,7 +136,6 @@ extra/private/google-modules/aoc/aoc_core.ko
 extra/private/google-modules/aoc/aoc_tbn_service_dev.ko
 extra/private/google-modules/aoc/alsa/aoc_alsa_dev_util.ko
 extra/private/google-modules/aoc/usb/aoc_usb_driver.ko
-extra/private/google-modules/bluetooth/broadcom/nitrous.ko
 extra/private/google-modules/bms/google-bms.ko
 extra/private/google-modules/bms/google-battery.ko
 extra/private/google-modules/bms/google-charger.ko
