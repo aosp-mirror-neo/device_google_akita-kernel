@@ -141,7 +141,8 @@ extra/private/google-modules/bms/google-battery.ko
 extra/private/google-modules/bms/google-charger.ko
 extra/private/google-modules/bms/google-cpm.ko
 extra/private/google-modules/bms/max77729-pmic.ko
-extra/private/google-modules/bms/max77759_charger.ko
+extra/private/google-modules/bms/max77759-charger.ko
+extra/private/google-modules/bms/max77779-charger.ko
 extra/private/google-modules/bms/p9221.ko
 extra/private/google-modules/bms/pca9468.ko
 extra/private/google-modules/bms/max1720x-battery.ko
