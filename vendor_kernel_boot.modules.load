@@ -31,6 +31,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/sjtag-driver.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/sched_tp.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
@@ -124,7 +125,9 @@ extra/private/google-modules/soc/gs/drivers/clocksource/exynos_mct_v3.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/exynos_devfreq.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/arm-memlat-mon.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/governor_memlat.ko
+extra/private/google-modules/soc/gs/drivers/devfreq/google/governor_dsulat.ko
 extra/private/google-modules/soc/gs/drivers/devfreq/google/memlat-devfreq.ko
+extra/private/google-modules/soc/gs/drivers/devfreq/google/dsulat-devfreq.ko
 extra/private/google-modules/soc/gs/drivers/iio/power/odpm.ko
 extra/private/google-modules/soc/gs/drivers/bts/bts.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zram_gs.ko
@@ -132,6 +135,7 @@ extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_cpu.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_eh.ko
 extra/private/devices/google/akita/display/panel-google-ak3a.ko
 extra/private/devices/google/akita/display/panel-google-ak3b.ko
+extra/private/google-modules/amplifiers/audiometrics/audiometrics.ko
 extra/private/google-modules/aoc/aoc_core.ko
 extra/private/google-modules/aoc/aoc_tbn_service_dev.ko
 extra/private/google-modules/aoc/alsa/aoc_alsa_dev_util.ko
@@ -149,7 +153,7 @@ extra/private/google-modules/bms/max1720x-battery.ko
 extra/private/google-modules/bms/max20339.ko
 extra/private/google-modules/bms/wlc98_driver.ko
 extra/private/google-modules/bms/wc68.ko
-extra/private/google-modules/bms/ln8411_driver.ko
+extra/private/google-modules/bms/ln8411.ko
 extra/private/google-modules/bms/misc/gvotable.ko
 extra/private/google-modules/bms/misc/logbuffer.ko
 extra/private/google-modules/display/samsung/panel/panel-common.ko
