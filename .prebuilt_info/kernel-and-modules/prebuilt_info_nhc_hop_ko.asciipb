@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9835523"
+    build_id: "9905653"
     target: "akita"
     source_file: "nhc_hop.ko"
   }
   dest_file: "nhc_hop.ko"
-  version: "Linux version 5.15.104-android14-2-767101-g58d2278df21c-ab9835523 (build-user@build-host) (Android (9394278, based on r475365b) clang version 16.0.2 (https://android.googlesource.com/toolchain/llvm-project e1a2893d16330144736de1f4f0d06a844a03b9b0), LLD 16.0.2) #1 SMP PREEMPT Tue Mar 28 07:10:12 UTC 2023"
+  version: "Linux version 5.15.106-android14-3-767427-g48203ac2c25a-ab9905653 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Fri Apr 7 19:43:46 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
