@@ -19,7 +19,7 @@
 #ifndef _BIGO_H_
 #define _BIGO_H_
 #include <linux/ioctl.h>
-#define
+#define __user
 #include <linux/types.h>
 struct bigo_ioc_regs {
   __u64 regs;
