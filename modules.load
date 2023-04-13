@@ -66,7 +66,9 @@ extra/private/google-modules/soc/gs/drivers/soc/google/gnssif_spi/gnssif.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/eh/eh.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-debug.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-watchdog.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/pkvm-s2mpu/pkvm-s2mpu.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/pkvm-s2mpu/pkvm-s2mpu-v9/pkvm-s2mpu-v9.ko
 extra/private/google-modules/soc/gs/drivers/regulator/pmic_class.ko
 extra/private/google-modules/soc/gs/drivers/regulator/s2mpg14-regulator.ko
 extra/private/google-modules/soc/gs/drivers/regulator/s2mpg14-powermeter.ko
@@ -167,7 +169,6 @@ extra/private/google-modules/display/samsung/panel/panel-samsung-s6e3hc3.ko
 extra/private/google-modules/display/samsung/panel/panel-samsung-s6e3hc3-c10.ko
 extra/private/google-modules/display/samsung/panel/panel-samsung-s6e3hc4.ko
 extra/private/google-modules/display/samsung/exynos-drm.ko
-extra/private/google-modules/edgetpu/rio/drivers/edgetpu/rio.ko
 extra/private/google-modules/gps/broadcom/bcm47765/bcm47765.ko
 extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
