@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9932411"
+    build_id: "9974803"
     target: "akita"
     source_file: "exynos-reboot.ko"
   }
   dest_file: "exynos-reboot.ko"
-  version: "Linux version 5.15.106-android14-3-767441-ge3828832d215-ab9932411 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Wed Apr 12 04:21:04 UTC 2023"
+  version: "Linux version 5.15.106-android14-4-767472-gd2feb8390a05-ab9974803 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Wed Apr 19 21:28:20 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
