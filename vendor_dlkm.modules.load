@@ -7,6 +7,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/bcm_dbg.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cpif/cp_thermal_zone.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/dbgcore-dump.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-seclog.ko
+extra/private/google-modules/soc/gs/drivers/regulator/rt6160-regulator.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
 extra/private/google-modules/soc/gs/drivers/input/fingerprint/goodixfp.ko
 extra/private/google-modules/soc/gs/drivers/thermal/google/s2mpg15_spmic_thermal.ko
@@ -31,7 +32,6 @@ extra/private/google-modules/bms/google_dock.ko
 extra/private/google-modules/bms/overheat_mitigation.ko
 extra/private/google-modules/bms/max77729_uic.ko
 extra/private/google-modules/bms/max77729_charger.ko
-extra/private/google-modules/bms/max77779-sp.ko
 extra/private/google-modules/bms/max77779_i2cm.ko
 extra/private/google-modules/bms/max77779_pmic.ko
 extra/private/google-modules/bms/max77779_pmic_irq.ko
