@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9977104"
+    build_id: "10047561"
     target: "akita"
     source_file: "pptp.ko"
   }
   dest_file: "pptp.ko"
-  version: "Linux version 5.15.106-android14-4-767473-g0da4e01d32fb-ab9977104 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Thu Apr 20 00:22:58 UTC 2023"
+  version: "Linux version 5.15.106-android14-4-767501-g1596e12dd6de-ab10047561 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Mon May 1 23:37:55 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
