@@ -116,7 +116,6 @@ extra/private/google-modules/soc/gs/drivers/thermal/samsung/gs_thermal.ko
 extra/private/google-modules/soc/gs/drivers/thermal/samsung/gpu_cooling.ko
 extra/private/google-modules/soc/gs/drivers/thermal/google/google_bcl.ko
 extra/private/google-modules/soc/gs/drivers/trusty/trusty-core.ko
-extra/private/google-modules/soc/gs/drivers/trusty/trusty-irq.ko
 extra/private/google-modules/soc/gs/drivers/trusty/trusty-log.ko
 extra/private/google-modules/soc/gs/drivers/trusty/trusty-test.ko
 extra/private/google-modules/soc/gs/drivers/trusty/trusty-virtio.ko
@@ -155,6 +154,7 @@ extra/private/google-modules/bms/max1720x-battery.ko
 extra/private/google-modules/bms/max20339.ko
 extra/private/google-modules/bms/wlc98_driver.ko
 extra/private/google-modules/bms/wc68.ko
+extra/private/google-modules/bms/max77779-sp.ko
 extra/private/google-modules/bms/ln8411.ko
 extra/private/google-modules/bms/misc/gvotable.ko
 extra/private/google-modules/bms/misc/logbuffer.ko
@@ -172,6 +172,7 @@ extra/private/google-modules/display/samsung/exynos-drm.ko
 extra/private/google-modules/gps/broadcom/bcm47765/bcm47765.ko
 extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
+extra/private/google-modules/hdcp/samsung/exynos-hdcp2.ko
 extra/private/google-modules/nfc/st21nfc.ko
 extra/private/google-modules/nfc/ese/st54spi.ko
 extra/private/google-modules/power/reset/exynos-reboot.ko
