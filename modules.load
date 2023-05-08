@@ -27,6 +27,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-ecc-handler.
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-adv-tracer.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-adv-tracer-s2d.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-boot-metrics.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-suspend-diag.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/sjtag-driver.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/sched_tp.ko
