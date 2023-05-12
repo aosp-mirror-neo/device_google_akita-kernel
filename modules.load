@@ -116,11 +116,6 @@ extra/private/google-modules/soc/gs/drivers/power/reset/debug-reboot.ko
 extra/private/google-modules/soc/gs/drivers/thermal/samsung/gs_thermal.ko
 extra/private/google-modules/soc/gs/drivers/thermal/samsung/gpu_cooling.ko
 extra/private/google-modules/soc/gs/drivers/thermal/google/google_bcl.ko
-extra/private/google-modules/soc/gs/drivers/trusty/trusty-core.ko
-extra/private/google-modules/soc/gs/drivers/trusty/trusty-log.ko
-extra/private/google-modules/soc/gs/drivers/trusty/trusty-test.ko
-extra/private/google-modules/soc/gs/drivers/trusty/trusty-virtio.ko
-extra/private/google-modules/soc/gs/drivers/trusty/trusty-ipc.ko
 extra/private/google-modules/soc/gs/drivers/watchdog/s3c2410_wdt.ko
 extra/private/google-modules/soc/gs/drivers/cpufreq/exynos-acme.ko
 extra/private/google-modules/soc/gs/drivers/clocksource/exynos_mct_v3.ko
@@ -179,4 +174,9 @@ extra/private/google-modules/nfc/ese/st54spi.ko
 extra/private/google-modules/power/reset/exynos-reboot.ko
 extra/private/google-modules/touch/common/touch_bus_negotiator.ko
 extra/private/google-modules/touch/common/touch_offload.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-core.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-log.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-test.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-virtio.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-ipc.ko
 extra/private/google-modules/video/gchips/bigwave.ko
