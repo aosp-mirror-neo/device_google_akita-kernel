@@ -19,7 +19,6 @@
 #ifndef _BIGO_H_
 #define _BIGO_H_
 #include <linux/ioctl.h>
-#define __user
 #include <linux/types.h>
 struct bigo_ioc_regs {
   __u64 regs;
@@ -30,6 +29,7 @@ struct bigo_ioc_mapping {
   __u32 iova;
   __u32 offset;
   __u32 size;
+  __u32 skip_cmo;
 };
 struct bigo_ioc_frmsize {
   __u32 height;
