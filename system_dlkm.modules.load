@@ -28,7 +28,6 @@ kernel/drivers/bluetooth/btsdio.ko
 kernel/drivers/bluetooth/btbcm.ko
 kernel/drivers/bluetooth/btqca.ko
 kernel/net/8021q/8021q.ko
-kernel/net/wireless/cfg80211.ko
 kernel/net/can/can.ko
 kernel/net/can/can-raw.ko
 kernel/net/can/can-bcm.ko
@@ -38,7 +37,6 @@ kernel/net/bluetooth/rfcomm/rfcomm.ko
 kernel/net/bluetooth/hidp/hidp.ko
 kernel/net/l2tp/l2tp_core.ko
 kernel/net/l2tp/l2tp_ppp.ko
-kernel/net/mac80211/mac80211.ko
 kernel/net/tipc/tipc.ko
 kernel/net/tipc/diag.ko
 kernel/net/rfkill/rfkill.ko
