@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10144563"
+    build_id: "10158345"
     target: "akita"
     source_file: "gpu_cooling.ko"
   }
   dest_file: "gpu_cooling.ko"
-  version: "Linux version 5.15.109-android14-5-767895-gb0dce34c7148-ab10144563 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Thu May 11 15:46:32 UTC 2023"
+  version: "Linux version 5.15.110-android14-6-767947-g7992fe2852cc-ab10158345 (build-user@build-host) (Android (10087095, +pgo, +bolt, +lto, -mlgo, based on r487747c) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.2) #1 SMP PREEMPT Wed May 17 13:49:18 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
