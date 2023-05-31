@@ -34,11 +34,6 @@ extra/private/google-modules/bms/google_dock.ko
 extra/private/google-modules/bms/overheat_mitigation.ko
 extra/private/google-modules/bms/max77729_uic.ko
 extra/private/google-modules/bms/max77729_charger.ko
-extra/private/google-modules/bms/max77779_i2cm.ko
-extra/private/google-modules/bms/max77779_pmic.ko
-extra/private/google-modules/bms/max77779_pmic_irq.ko
-extra/private/google-modules/bms/max77779_pmic_pinctrl.ko
-extra/private/google-modules/bms/max77779_pmic_sgpio.ko
 extra/private/google-modules/display/samsung/panel/panel-boe-nt37290.ko
 extra/private/google-modules/edgetpu/rio/drivers/edgetpu/rio.ko
 extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
