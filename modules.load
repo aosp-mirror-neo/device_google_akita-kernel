@@ -150,8 +150,6 @@ extra/private/google-modules/bms/p9221.ko
 extra/private/google-modules/bms/pca9468.ko
 extra/private/google-modules/bms/max1720x-battery.ko
 extra/private/google-modules/bms/max20339.ko
-extra/private/google-modules/bms/wlc98_driver.ko
-extra/private/google-modules/bms/wc68.ko
 extra/private/google-modules/bms/max77779-sp.ko
 extra/private/google-modules/bms/max77779_i2cm.ko
 extra/private/google-modules/bms/max77779_pmic.ko
