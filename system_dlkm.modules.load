@@ -1,3 +1,4 @@
+kernel/kernel/kheaders.ko
 kernel/mm/zsmalloc.ko
 kernel/drivers/net/mii.ko
 kernel/drivers/net/can/dev/can-dev.ko
