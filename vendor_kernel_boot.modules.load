@@ -24,6 +24,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/itmon.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/bookerci.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-coresight.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-ecc-handler.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-coresight-etm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-adv-tracer.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-adv-tracer-s2d.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-boot-metrics.ko
@@ -32,6 +33,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/sjtag-driver.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/sched_tp.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/fs/vh_fs.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
@@ -71,6 +73,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-watchdog.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pkvm-s2mpu/pkvm-s2mpu-v9/pkvm-s2mpu-v9.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/perf_trace_counters.ko
 extra/private/google-modules/soc/gs/drivers/regulator/pmic_class.ko
 extra/private/google-modules/soc/gs/drivers/regulator/s2mpg14-regulator.ko
 extra/private/google-modules/soc/gs/drivers/regulator/s2mpg14-powermeter.ko
