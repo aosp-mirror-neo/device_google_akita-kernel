@@ -101,6 +101,7 @@ extra/private/google-modules/soc/gs/drivers/usb/dwc3/dwc3-exynos-usb.ko
 extra/private/google-modules/soc/gs/drivers/usb/host/xhci-exynos.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_dm.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_dm1.ko
+extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_etr_miu.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_rndis.ko
 extra/private/google-modules/soc/gs/drivers/usb/typec/tcpm/google/usb_psy.ko
 extra/private/google-modules/soc/gs/drivers/usb/typec/tcpm/google/tcpci_max77759.ko
