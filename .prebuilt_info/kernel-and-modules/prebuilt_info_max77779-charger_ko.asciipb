@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10629585"
+    build_id: "10637923"
     target: "akita"
     source_file: "max77779-charger.ko"
   }
   dest_file: "max77779-charger.ko"
-  version: "Linux version 5.15.110-android14-11-gb7f8682556f1-ab10629585 (build-user@build-host) (Android (10087095, +pgo, +bolt, +lto, -mlgo, based on r487747c) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.2) #1 SMP PREEMPT Wed Aug 2 03:19:17 UTC 2023"
+  version: "Linux version 5.15.110-android14-11-gb7f8682556f1-ab10637923 (build-user@build-host) (Android (10087095, +pgo, +bolt, +lto, -mlgo, based on r487747c) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.2) #1 SMP PREEMPT Wed Aug 2 03:19:17 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
