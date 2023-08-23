@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10685846"
+    build_id: "10697242"
     target: "akita_kasan"
     source_file: "i2c-exynos5.ko"
   }
