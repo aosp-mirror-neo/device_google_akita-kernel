@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10697242"
+    build_id: "10713072"
     target: "akita"
     source_file: "s2mpg15-regulator.ko"
   }
