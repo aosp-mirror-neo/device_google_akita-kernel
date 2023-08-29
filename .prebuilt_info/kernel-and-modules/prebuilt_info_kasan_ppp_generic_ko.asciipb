@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10713072"
+    build_id: "10714385"
     target: "akita_kasan"
     source_file: "ppp_generic.ko"
   }
