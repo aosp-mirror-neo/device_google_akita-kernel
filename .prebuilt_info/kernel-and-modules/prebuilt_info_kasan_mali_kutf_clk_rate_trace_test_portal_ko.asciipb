@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10726874"
+    build_id: "10734528"
     target: "akita_kasan"
     source_file: "mali_kutf_clk_rate_trace_test_portal.ko"
   }
