@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10741369"
+    build_id: "10747057"
     target: "akita_debug_memory_accounting"
     source_file: "exynos-acme.ko"
   }
