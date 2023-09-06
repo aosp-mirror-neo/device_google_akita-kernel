@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10759665"
+    build_id: "10763590"
     target: "akita_debug_memory_accounting"
     source_file: "usb_f_dm1.ko"
   }
   dest_file: "debug_memory_accounting/usb_f_dm1.ko"
-  version: "Linux version 5.15.110-android14-11-g4c73cba07b12-ab10667676 (build-user@build-host) (Android (10087095, +pgo, +bolt, +lto, -mlgo, based on r487747c) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.2) #1 SMP PREEMPT Wed Aug 16 09:47:31 UTC 2023"
+  version: "Linux version 5.15.110-android14-11-g1e93e08744aa-ab10739172 (build-user@build-host) (Android (10087095, +pgo, +bolt, +lto, -mlgo, based on r487747c) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.2) #1 SMP PREEMPT Wed Aug 30 16:43:51 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
