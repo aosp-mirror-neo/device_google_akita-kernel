@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10763590"
+    build_id: "10773122"
     target: "akita_debug_kmemleak"
     source_file: "spmi_bit_bang.ko"
   }
