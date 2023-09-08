@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10773122"
+    build_id: "10775513"
     target: "akita"
     source_file: "mali_kutf.ko"
   }
