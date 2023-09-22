@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10841020"
+    build_id: "10841409"
     target: "akita_kasan"
     source_file: "panel-samsung-s6e3hc3-c10.ko"
   }
