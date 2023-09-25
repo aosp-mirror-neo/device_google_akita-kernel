@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10841409"
+    build_id: "10852719"
     target: "akita_kasan"
     source_file: "max77779_pmic_sgpio.ko"
   }
