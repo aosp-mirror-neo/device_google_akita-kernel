@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10852719"
+    build_id: "10859727"
     target: "akita_debug_memory"
     source_file: "mali_kutf_clk_rate_trace_test_portal.ko"
   }
