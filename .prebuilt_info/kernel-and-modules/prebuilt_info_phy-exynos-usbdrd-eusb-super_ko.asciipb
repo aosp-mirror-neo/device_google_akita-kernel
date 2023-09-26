@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10852719"
+    build_id: "10859727"
     target: "akita"
     source_file: "phy-exynos-usbdrd-eusb-super.ko"
   }
