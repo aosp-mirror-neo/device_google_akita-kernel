@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10841019"
+    build_id: "10867135"
     target: "akita"
     source_file: "max77729_charger.ko"
   }
