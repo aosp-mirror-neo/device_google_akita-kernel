@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10864625"
+    build_id: "10872414"
     target: "akita_debug_memory"
     source_file: "max1720x-battery.ko"
   }
