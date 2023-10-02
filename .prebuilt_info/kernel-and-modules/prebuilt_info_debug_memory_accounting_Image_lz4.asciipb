@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10874595"
+    build_id: "10882695"
     target: "akita_debug_memory_accounting"
     source_file: "Image.lz4"
   }
