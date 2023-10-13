@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10929986"
+    build_id: "10938232"
     target: "akita_debug_api"
     source_file: "exynos-hdcp2.ko"
   }
