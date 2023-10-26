@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10985082"
+    build_id: "11001398"
     target: "akita_kasan"
     source_file: "debug-snapshot-debug-kinfo.ko"
   }
   dest_file: "kasan/debug-snapshot-debug-kinfo.ko"
-  version: "10985082"
+  version: "11001398"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
