@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11008105"
+    build_id: "11015833"
     target: "akita_debug_locking"
     source_file: "panel-google-ak3b.ko"
   }
   dest_file: "debug_locking/panel-google-ak3b.ko"
-  version: "11008105"
+  version: "11015833"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
