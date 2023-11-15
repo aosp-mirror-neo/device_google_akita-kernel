@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11088961"
+    build_id: "11095879"
     target: "akita"
     source_file: "mailbox-wc.ko"
   }
   dest_file: "mailbox-wc.ko"
-  version: "11088961"
+  version: "11095879"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
