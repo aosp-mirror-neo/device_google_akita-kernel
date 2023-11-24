@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11130324"
+    build_id: "11132336"
     target: "akita_debug_memory_accounting"
     source_file: "pinctrl-exynos-gs.ko"
   }
   dest_file: "debug_memory_accounting/pinctrl-exynos-gs.ko"
-  version: "11130324"
+  version: "11132336"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
