@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11107528"
+    build_id: "11147650"
     target: "akita_debug_kmemleak"
     source_file: "mailbox-wc.ko"
   }
   dest_file: "debug_kmemleak/mailbox-wc.ko"
-  version: "11107528"
+  version: "11147650"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
