@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11166330"
+    build_id: "11183886"
     target: "akita"
     source_file: "s2mpg15-mfd.ko"
   }
   dest_file: "s2mpg15-mfd.ko"
-  version: "11166330"
+  version: "11183886"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
