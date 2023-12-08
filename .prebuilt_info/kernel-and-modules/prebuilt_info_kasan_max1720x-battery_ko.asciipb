@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11183886"
+    build_id: "11195785"
     target: "akita_kasan"
     source_file: "max1720x-battery.ko"
   }
   dest_file: "kasan/max1720x-battery.ko"
-  version: "11183886"
+  version: "11195785"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }

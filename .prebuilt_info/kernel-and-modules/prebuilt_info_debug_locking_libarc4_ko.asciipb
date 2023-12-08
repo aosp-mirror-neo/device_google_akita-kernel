@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11183886"
+    build_id: "11195785"
     target: "akita_debug_locking"
     source_file: "libarc4.ko"
   }
   dest_file: "debug_locking/libarc4.ko"
-  version: "11183886"
+  version: "11195785"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
