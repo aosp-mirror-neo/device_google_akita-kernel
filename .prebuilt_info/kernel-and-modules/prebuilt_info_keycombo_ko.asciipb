@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11202173"
+    build_id: "11206712"
     target: "akita"
     source_file: "keycombo.ko"
   }
   dest_file: "keycombo.ko"
-  version: "11202173"
+  version: "11206712"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
