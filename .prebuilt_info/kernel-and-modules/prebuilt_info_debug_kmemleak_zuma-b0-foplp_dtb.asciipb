@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11202172"
+    build_id: "11211200"
     target: "akita_debug_kmemleak"
     source_file: "zuma-b0-foplp.dtb"
   }
   dest_file: "debug_kmemleak/zuma-b0-foplp.dtb"
-  version: "11202172"
+  version: "11211200"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
