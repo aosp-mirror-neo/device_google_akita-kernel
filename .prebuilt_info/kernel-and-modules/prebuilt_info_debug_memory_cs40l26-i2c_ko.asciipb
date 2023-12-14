@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11202172"
+    build_id: "11211200"
     target: "akita_debug_memory"
     source_file: "cs40l26-i2c.ko"
   }
   dest_file: "debug_memory/cs40l26-i2c.ko"
-  version: "11202172"
+  version: "11211200"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
