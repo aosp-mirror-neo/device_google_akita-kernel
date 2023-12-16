@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11107528"
+    build_id: "11218083"
     target: "akita_debug_memory_accounting"
     source_file: "g2d.ko"
   }
   dest_file: "debug_memory_accounting/g2d.ko"
-  version: "11107528"
+  version: "11218083"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
