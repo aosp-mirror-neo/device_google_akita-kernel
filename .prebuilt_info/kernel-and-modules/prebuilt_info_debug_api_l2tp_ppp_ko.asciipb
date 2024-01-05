@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11257691"
+    build_id: "11267300"
     target: "akita_debug_api"
     source_file: "l2tp_ppp.ko"
   }
   dest_file: "debug_api/l2tp_ppp.ko"
-  version: "11257691"
+  version: "11267300"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
