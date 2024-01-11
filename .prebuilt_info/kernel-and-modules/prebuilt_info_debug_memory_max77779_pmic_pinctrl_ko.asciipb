@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11248894"
+    build_id: "11284306"
     target: "akita_debug_memory"
     source_file: "max77779_pmic_pinctrl.ko"
   }
   dest_file: "debug_memory/max77779_pmic_pinctrl.ko"
-  version: "11248894"
+  version: "11284306"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
