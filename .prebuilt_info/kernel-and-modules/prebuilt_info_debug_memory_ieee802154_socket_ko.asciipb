@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11303536"
+    build_id: "11324413"
     target: "akita_debug_memory"
     source_file: "ieee802154_socket.ko"
   }
   dest_file: "debug_memory/ieee802154_socket.ko"
-  version: "11303536"
+  version: "11324413"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }

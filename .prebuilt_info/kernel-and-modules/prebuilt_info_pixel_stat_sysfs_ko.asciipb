@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11303536"
+    build_id: "11324413"
     target: "akita"
     source_file: "pixel_stat_sysfs.ko"
   }
   dest_file: "pixel_stat_sysfs.ko"
-  version: "11303536"
+  version: "11324413"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
