@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11320803"
+    build_id: "11334497"
     target: "akita_debug_api"
     source_file: "usb_f_etr_miu.ko"
   }
   dest_file: "debug_api/usb_f_etr_miu.ko"
-  version: "11320803"
+  version: "11334497"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
