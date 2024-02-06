@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11380281"
+    build_id: "11411479"
     target: "akita_kasan"
     source_file: "r8152.ko"
   }
   dest_file: "kasan/r8152.ko"
-  version: "11380281"
+  version: "11411479"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
