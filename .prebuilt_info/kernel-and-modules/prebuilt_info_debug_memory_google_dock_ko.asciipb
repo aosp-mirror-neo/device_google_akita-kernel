@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11470891"
+    build_id: "11483116"
     target: "akita_debug_memory"
     source_file: "google_dock.ko"
   }
   dest_file: "debug_memory/google_dock.ko"
-  version: "11470891"
+  version: "11483116"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }

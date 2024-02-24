@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11470891"
+    build_id: "11483116"
     target: "akita"
     source_file: "samsung_iommu_v9.ko"
   }
   dest_file: "samsung_iommu_v9.ko"
-  version: "11470891"
+  version: "11483116"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
