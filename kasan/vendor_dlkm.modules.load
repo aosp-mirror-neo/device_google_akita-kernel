@@ -27,6 +27,7 @@ extra/private/google-modules/aoc/aoc_control_dev.ko
 extra/private/google-modules/aoc/aoc_channel_dev.ko
 extra/private/google-modules/aoc/aoc_uwb_platform_drv.ko
 extra/private/google-modules/aoc/aoc_uwb_service_dev.ko
+extra/private/google-modules/aoc/aoc_unit_test_dev.ko
 extra/private/google-modules/aoc/alsa/aoc_alsa_dev.ko
 extra/private/google-modules/bluetooth/broadcom/nitrous.ko
 extra/private/google-modules/bms/google_dual_batt_gauge.ko
