@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11500583"
+    build_id: "11511348"
     target: "akita"
     source_file: "st54spi.ko"
   }
   dest_file: "st54spi.ko"
-  version: "11500583"
+  version: "11511348"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
