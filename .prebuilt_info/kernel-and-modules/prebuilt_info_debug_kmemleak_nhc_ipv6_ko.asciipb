@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11511348"
+    build_id: "11520181"
     target: "akita_debug_kmemleak"
     source_file: "nhc_ipv6.ko"
   }
   dest_file: "debug_kmemleak/nhc_ipv6.ko"
-  version: "11511348"
+  version: "11520181"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
