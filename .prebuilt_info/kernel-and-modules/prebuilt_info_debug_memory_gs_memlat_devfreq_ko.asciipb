@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11535245"
+    target: "akita_debug_memory"
+    source_file: "gs_memlat_devfreq.ko"
+  }
+  dest_file: "debug_memory/gs_memlat_devfreq.ko"
+  version: "11535245"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}
