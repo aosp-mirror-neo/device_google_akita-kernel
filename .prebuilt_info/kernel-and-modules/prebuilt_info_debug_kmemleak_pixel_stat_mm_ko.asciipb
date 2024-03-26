@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11592978"
+    build_id: "11624709"
     target: "akita_debug_kmemleak"
     source_file: "pixel_stat_mm.ko"
   }
   dest_file: "debug_kmemleak/pixel_stat_mm.ko"
-  version: "11592978"
+  version: "11624709"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
