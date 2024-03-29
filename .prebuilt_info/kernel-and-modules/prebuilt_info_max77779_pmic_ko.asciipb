@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11624709"
+    build_id: "11646057"
     target: "akita"
     source_file: "max77779_pmic.ko"
   }
   dest_file: "max77779_pmic.ko"
-  version: "11624709"
+  version: "11646057"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }

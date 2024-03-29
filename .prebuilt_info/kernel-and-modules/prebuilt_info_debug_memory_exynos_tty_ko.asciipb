@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11624709"
+    build_id: "11646057"
     target: "akita_debug_memory"
     source_file: "exynos_tty.ko"
   }
   dest_file: "debug_memory/exynos_tty.ko"
-  version: "11624709"
+  version: "11646057"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
