@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11825854"
+    build_id: "11934724"
     target: "akita_debug_api"
     source_file: "goodixfp.ko"
   }
   dest_file: "debug_api/goodixfp.ko"
-  version: "11825854"
+  version: "11934724"
   version_group: "kernel-and-modules"
   git_project: "device/google/akita-kernel"
 }
